@@ -1,4 +1,4 @@
-#header{
+#header {
     background-image: url(../images/banner.png), url(../images/grediant.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -6,23 +6,22 @@
     background-blend-mode: multiply;
 }
 
-.btn-news{
+.btn-news {
     max-width: 170px;
 }
 
-.user{
+.user {
     width: 150px;
 }
 
-.ratings > img{
+.ratings>img {
     width: 22px;
 }
 
-.footer{
-    background-color: black!important;
+.footer {
+    background-color: black !important;
 }
 
-hr{
+hr {
     width: 7%;
 }
-
